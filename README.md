@@ -3,8 +3,7 @@
 ## Repository Structure
 
 ### 1. **Benchmarking and Comparison of Agents**
-- Contains setup for our internal benchmarking framework.
-- Includes detailed benchmarking reports for **Cohort 32** and **Cohort 33** agents.
+- Contains setup for our internal benchmarking framework, and includes detailed Benchmarking Reports.
 
 ### 2. **Presentation**
 - Weekly presentation slides from **Week 1 through Week 8**.
