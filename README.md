@@ -62,6 +62,8 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 <br>
 
+<img src="https://github.com/user-attachments/assets/fe136709-8bc7-4b71-87ad-7dfa243b8696" alt="Elon Musk Demo" width="500" />
+
 ![Midscene-Elon-Musk](https://github.com/user-attachments/assets/fe136709-8bc7-4b71-87ad-7dfa243b8696)
 
 <br>
