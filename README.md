@@ -12,9 +12,9 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 - Project Overview
 - Evaluation of Agents
- - Midscene.js Chrome Extension
- - UI-TARS Desktop Agent
- - Proxy-lite Agent (Final Selection)
+  - Midscene.js Chrome Extension
+  - UI-TARS Desktop Agent
+  - Proxy-lite Agent (Final Selection)
 - Benchmarking Results
 - Demo Videos
 - Setup and Usage Guide
