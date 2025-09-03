@@ -1,5 +1,0 @@
-The eval_actions_proxylite.py file contains a benchmark test to evaluate the proxy-lite agents ability to correctly choose the actions "Click", "Type", "Scroll" and "Return Value". The corresponding dataset, consisting of tasks with 20 "Click" actions, 10 "Type" actions, 10 "Scroll" actions and 10 "Return Value" actions is contained in benchmarktasks.json.
-
-In order for eval_actions_proxylite.py to run, additional logging functionalities need to be added to the proxy-lite agent. This can be done by replacing the file \proxy-lite\src\proxy_lite\history.py by the history.py file in the present directory.
-
-The results of the benchmark tests (comparison between the actions chosen by the agent and the desired actions) can be found in final_results.json. For more results, we refer to the report Comparison_of_agents.pdf.
