@@ -56,6 +56,14 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 - Although providing a valuable baseline and easy UI, these constraints prompted migration to UI-TARS Desktop for enhanced capability.
 
+### Midscene.js Demo Videos
+
+**Simple Task:** Open Google Chrome and search "Elon Musk" (Succeeded)  
+![Midscene Simple Task](![Midscene-Elon-Musk](https://github.com/user-attachments/assets/9a872cdf-797f-433e-8008-da49b1905968))
+
+**Complex Task:** Open Chrome, go to BBC News, select top headline, extract title, save JSON (Failed due to token limits)  
+![Midscene Complex Task](assets/midscene_complex_task.gif)
+
 ## **UI-TARS Desktop Agent**
 
 **Repository**: [UI-TARS](https://github.com/bytedance/UI-TARS)
@@ -113,6 +121,14 @@ pnpm install && pnpm run dev
 
 - Extensive testing performed by Olwin Christian, Rahul Thakur, and Iremide Oloyede, with mentor supervision.
 - Runtime and scraping stability refined through collaborative iterations.
+
+### UI-TARS Demo Videos
+
+**Simple Task:** Search Notepad from desktop search results and open it (Succeeded)  
+![UI-TARS Simple Task](assets/ui_tars_simple_task.gif)
+
+**Complex Task:** Open Chrome, navigate to HDFC site, calculate EMI (Succeeded in calculation but failed to save the result screenshot)  
+![UI-TARS Complex Task](assets/ui_tars_complex_task.gif)
 
 ## **Proxy-lite Agent** (Final Selection)
 
