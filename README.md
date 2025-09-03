@@ -72,7 +72,6 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 ![Midscene-BBC](https://github.com/user-attachments/assets/3f59499d-4791-4266-bfa3-dcf90c494e55)
 
-<br>
 
 ## **UI-TARS Desktop Agent**
 
@@ -148,7 +147,6 @@ pnpm install && pnpm run dev
 
 ![UI-TARS-HDFC](https://github.com/user-attachments/assets/f2b18b19-ec78-486a-97c2-ab91aa7f7d65)
 
-<br>
 
 ## **Proxy-lite Agent** (Final Selection)
 
@@ -215,12 +213,17 @@ asyncio.run(main())
 | Apple       | 82.1%                 | 89.7%                  | N/A                        | N/A                         |
 | ArXiv       | 60.5%                 | 79.1%                  | N/A                        | N/A                         |
 
-## **Demo Videos**
+### Proxy-lite Demo Video
 
-### **UI-TARS 7B EMI Calculation Demo**
+**Context** 
 
+Below is an example GIF sourced from the internet to demonstrate Proxy-lite in action. This is not from our project, but illustrates typical web automation using Proxy-lite for educational/demo purposes.
 
-_Video demonstrating UI-TARS 7B agent calculating EMI for HDFC Bank loan from a live webpage._
+<br>
+
+![Proxy-Lite-Example](https://github.com/user-attachments/assets/d6eaa6e2-4d09-4a9f-8058-4df60c4655c1)
+ 
+**Note**: This GIF is a public demonstration, not a direct recording from our cohort’s experiments.
 
 ## **Public Agent Repositories**
 
