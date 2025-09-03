@@ -70,19 +70,26 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 git clone https://github.com/bytedance/UI-TARS.git
 cd UI-TARS
+```
 
+```bash
 python -m venv venv
 source venv/bin/activate          # Linux/macOS
 venv\Scripts\activate             # Windows
+```
 
+```bash
 pip install -r requirements.txt
+```
 
+```bash
 # Launch service
 python -m vllm.entrypoints.openai.api_server --served-model-name ui-tars --model path_to_model
+```
 
+```bash
 # Local UI start
 pnpm install && pnpm run dev
-
 ```
 
 **Performance Highlights**
