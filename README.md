@@ -61,13 +61,17 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 **Simple Task:** Open Google Chrome and search "Elon Musk" (Succeeded) 
 
 <br>
+
 ![Midscene-Elon-Musk](https://github.com/user-attachments/assets/fe136709-8bc7-4b71-87ad-7dfa243b8696)
+
 <br>
 
 **Complex Task:** Open Chrome, go to BBC News, select top headline, extract title, save JSON (Failed due to token limits)  
 
 <br>
+
 ![Midscene-BBC](https://github.com/user-attachments/assets/3f59499d-4791-4266-bfa3-dcf90c494e55)
+
 <br>
 
 ## **UI-TARS Desktop Agent**
@@ -133,13 +137,17 @@ pnpm install && pnpm run dev
 **Simple Task:** Search Notepad from desktop search results and open it (Succeeded)  
 
 <br>
+
 ![Midscene-Notepad](https://github.com/user-attachments/assets/84d813ff-6bcd-48f1-9252-aee149830838)
+
 <br>
 
 **Complex Task:** Open Chrome, navigate to HDFC site, calculate EMI (Succeeded in calculation but failed to save the result screenshot)  
 
 <br>
+
 ![UI-TARS-HDFC](https://github.com/user-attachments/assets/f2b18b19-ec78-486a-97c2-ab91aa7f7d65)
+
 <br>
 
 ## **Proxy-lite Agent** (Final Selection)
