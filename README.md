@@ -58,7 +58,7 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 ### Midscene.js Demo Videos
 
-**Simple Task:** Open Google Chrome and search "Elon Musk" (Succeeded) 
+- **Simple Task:** Open Google Chrome and search "Elon Musk" (Succeeded) 
 
 <br>
 
@@ -68,7 +68,7 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 <br>
 
-**Complex Task:** Open Chrome, go to BBC News, select top headline, extract title, save JSON (Failed due to token limits)  
+- **Complex Task:** Open Chrome, go to BBC News, select top headline, extract title, save JSON (Failed due to token limits)  
 
 <br>
 
@@ -136,22 +136,22 @@ pnpm install && pnpm run dev
 
 ### UI-TARS Demo Videos
 
-**Simple Task:** Search Notepad from desktop search results and open it (Succeeded)  
+- **Simple Task:** Search Notepad from desktop search results and open it (Succeeded)  
 
 <br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/84d813ff-6bcd-48f1-9252-aee149830838" alt="Midscene-Notepad" width="900" />
+<img src="https://github.com/user-attachments/assets/84d813ff-6bcd-48f1-9252-aee149830838" alt="Midscene-Notepad" width="700" />
 </p>
 
 <br>
 
-**Complex Task:** Open Chrome, navigate to HDFC site, calculate EMI (Succeeded in calculation but failed to save the result screenshot)  
+- **Complex Task:** Open Chrome, navigate to HDFC site, calculate EMI (Succeeded in calculation but failed to save the result screenshot)  
 
 <br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f2b18b19-ec78-486a-97c2-ab91aa7f7d65" alt="UI-TARS-HDFC" width="900" />
+<img src="https://github.com/user-attachments/assets/f2b18b19-ec78-486a-97c2-ab91aa7f7d65" alt="UI-TARS-HDFC" width="700" />
 </p>
 
 ## **Proxy-lite Agent** (Final Selection)
@@ -223,15 +223,15 @@ asyncio.run(main())
 
 **Context** 
 
-Below is an example GIF sourced from the internet to demonstrate Proxy-lite in action. This is not from our project, but illustrates typical web automation using Proxy-lite for educational/demo purposes.
+- Below is an example GIF sourced from the internet to demonstrate Proxy-lite in action. This is not from our project, but illustrates typical web automation using Proxy-lite for educational/demo purposes.
 
 <br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d6eaa6e2-4d09-4a9f-8058-4df60c4655c1" alt="Proxy-Lite-Example" width="900" />
+<img src="https://github.com/user-attachments/assets/d6eaa6e2-4d09-4a9f-8058-4df60c4655c1" alt="Proxy-Lite-Example" width="700" />
 </p>
 
-**Note**: This GIF is a public demonstration, not a direct recording from our cohort’s experiments.
+- **Note**: This GIF is a public demonstration, not a direct recording from our cohort’s experiments.
 
 ## **Public Agent Repositories**
 
