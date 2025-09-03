@@ -11,34 +11,47 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 ## **Table of Contents**
 
 - Project Overview
+  
 - Evaluation of Agents
+  
   - Midscene.js Chrome Extension
   - UI-TARS Desktop Agent
   - Proxy-lite Agent (Final Selection)
+    
 - Benchmarking Results
+  
 - Demo Videos
+  
 - Setup and Usage Guide
+  
 - Public Repositories
+  
 - Confidentiality Notice
+  
 - Contact
 
 ## **Evaluation of Agents**
 
 ## **Midscene.js Chrome Extension**
 
-- **Repository**: [Midscene](https://github.com/web-infra-dev/midscene)
+**Repository**: [Midscene](https://github.com/web-infra-dev/midscene)
 
-- **Technical Summary**:
-    Midscene.js operates as a Chrome extension utilizing vision-language models (VLMs) configured with UI-TARS 7-B SFT. It automates browsing via natural language prompts to extract and structure financial data.
+**Technical Summary**:
 
-- **Key Challenge**:
-    Faced a critical token limit error (422 Input Validation; inputs tokens + max_new_tokens > 32,768), severely limiting the complexity of tasks it could handle. Attempts to reduce inputs or max tokens failed to circumvent this.
+- Midscene.js operates as a Chrome extension utilizing vision-language models (VLMs) configured with UI-TARS 7-B SFT. It automates browsing via natural language prompts to extract and structure financial data.
 
-- **Example Failure**:
-    Failed to extract the BBC homepage headline due to exceeding token limits despite aggressive input shortening.
+**Key Challenge**:
 
-- **Other Limitations**:
-    Manual scrolling and dynamic webpage elements were inadequately handled, resulting in incomplete outputs.
+- Faced a critical token limit error (422 Input Validation; inputs tokens + max_new_tokens > 32,768), severely limiting the complexity of tasks it could handle. Attempts to reduce inputs or max tokens failed to circumvent this.
 
-- **Outcome**:
-    Although providing a valuable baseline and easy UI, these constraints prompted migration to UI-TARS Desktop for enhanced capability.
+**Example Failure**:
+
+- Failed to extract the BBC homepage headline due to exceeding token limits despite aggressive input shortening.
+
+**Other Limitations**:
+
+- Manual scrolling and dynamic webpage elements were inadequately handled, resulting in incomplete outputs.
+
+**Outcome**:
+
+- Although providing a valuable baseline and easy UI, these constraints prompted migration to UI-TARS Desktop for enhanced capability.
