@@ -63,7 +63,7 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 <br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fe136709-8bc7-4b71-87ad-7dfa243b8696" alt="Elon Musk Demo" width="900" />
+<img src="https://github.com/user-attachments/assets/fe136709-8bc7-4b71-87ad-7dfa243b8696" alt="Elon Musk Demo" width="500" />
 </p>
 
 <br>
@@ -73,7 +73,7 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 <br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3f59499d-4791-4266-bfa3-dcf90c494e55" alt="BBC" width="900" />
+<img src="https://github.com/user-attachments/assets/3f59499d-4791-4266-bfa3-dcf90c494e55" alt="BBC" width="500" />
 </p>
 
 ## **UI-TARS Desktop Agent**
