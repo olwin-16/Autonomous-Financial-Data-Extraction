@@ -58,8 +58,9 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 ### Midscene.js Demo Videos
 
-**Simple Task:** Open Google Chrome and search "Elon Musk" (Succeeded)  
-![Midscene Simple Task](![Midscene-Elon-Musk](https://github.com/user-attachments/assets/9a872cdf-797f-433e-8008-da49b1905968))
+**Simple Task:** Open Google Chrome and search "Elon Musk" (Succeeded) 
+
+![Midscene-Elon-Musk](https://github.com/user-attachments/assets/fe136709-8bc7-4b71-87ad-7dfa243b8696)
 
 **Complex Task:** Open Chrome, go to BBC News, select top headline, extract title, save JSON (Failed due to token limits)  
 ![Midscene Complex Task](assets/midscene_complex_task.gif)
