@@ -1,4 +1,4 @@
-**Autonomous Financial Data Extraction** — 33rd Cohort Fellowship.AI
+# **Autonomous Financial Data Extraction** — 33rd Cohort Fellowship.AI
 
 ## **Project Overview**
 
@@ -36,25 +36,25 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 **Repository**: [Midscene](https://github.com/web-infra-dev/midscene)
 
-**Technical Summary**
+- **Technical Summary**
 
-- Midscene.js operates as a Chrome extension utilizing vision-language models (VLMs) configured with UI-TARS 7-B SFT. It automates browsing via natural language prompts to extract and structure financial data.
+  - Midscene.js operates as a Chrome extension utilizing vision-language models (VLMs) configured with UI-TARS 7-B SFT. It automates browsing via natural language prompts to extract and structure financial data.
 
-**Key Challenge**
+- **Key Challenge**
 
-- Faced a critical token limit error (422 Input Validation; inputs tokens + max_new_tokens > 32,768), severely limiting the complexity of tasks it could handle. Attempts to reduce inputs or max tokens failed to circumvent this.
+  - Faced a critical token limit error (422 Input Validation; inputs tokens + max_new_tokens > 32,768), severely limiting the complexity of tasks it could handle. Attempts to reduce inputs or max tokens failed to circumvent this.
 
-**Example Failure**
+- **Example Failure**
 
-- Failed to extract the BBC homepage headline due to exceeding token limits despite aggressive input shortening.
+  - Failed to extract the BBC homepage headline due to exceeding token limits despite aggressive input shortening.
 
-**Other Limitations**
+- **Other Limitations**
 
-- Manual scrolling and dynamic webpage elements were inadequately handled, resulting in incomplete outputs.
+  - Manual scrolling and dynamic webpage elements were inadequately handled, resulting in incomplete outputs.
 
-**Outcome**
+- **Outcome**
 
-- Although providing a valuable baseline and easy UI, these constraints prompted migration to UI-TARS Desktop for enhanced capability.
+  - Although providing a valuable baseline and easy UI, these constraints prompted migration to UI-TARS Desktop for enhanced capability.
 
 ### Midscene.js Demo Videos
 
