@@ -1,4 +1,4 @@
-# **Autonomous Financial Data Extraction** — 33rd Cohort Fellowship.AI
+**Autonomous Financial Data Extraction** — 33rd Cohort Fellowship.AI
 
 ## **Project Overview**
 
