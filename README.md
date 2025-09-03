@@ -222,7 +222,9 @@ Below is an example GIF sourced from the internet to demonstrate Proxy-lite in a
 <br>
 
 <div align="center">
+  
 ![Proxy-Lite-Example](https://github.com/user-attachments/assets/d6eaa6e2-4d09-4a9f-8058-4df60c4655c1)
+  
 </div>
 
 **Note**: This GIF is a public demonstration, not a direct recording from our cohort’s experiments.
