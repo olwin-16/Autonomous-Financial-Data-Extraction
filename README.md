@@ -56,12 +56,6 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 - Although providing a valuable baseline and easy UI, these constraints prompted migration to UI-TARS Desktop for enhanced capability.
 
-<br>
-<div align="center">
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/7b8c00dc-e9ef-4e84-abf5-277ec08cdc94" />
-</div>
-<br>
-
 ## **UI-TARS Desktop Agent**
 
 **Repository**: [UI-TARS](https://github.com/bytedance/UI-TARS)
@@ -104,7 +98,7 @@ pnpm install && pnpm run dev
   
 <br>
 <div align="center">
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/783d60eb-03e8-486b-ae54-a212f2e7ea50" />
+<img width="500" alt="Comparison and Transition to UI-TARS Desktop" src="https://github.com/user-attachments/assets/17d7adc0-c11a-46f3-bc62-e77ae8169b09" />
 </div>
 <br>
 
