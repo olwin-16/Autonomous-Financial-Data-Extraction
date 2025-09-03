@@ -56,9 +56,11 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 - Although providing a valuable baseline and easy UI, these constraints prompted migration to UI-TARS Desktop for enhanced capability.
 
+<br>
 <div align="center">
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/7b8c00dc-e9ef-4e84-abf5-277ec08cdc94" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7b8c00dc-e9ef-4e84-abf5-277ec08cdc94" />
 </div>
+<br>
 
 ## **UI-TARS Desktop Agent**
 
@@ -99,10 +101,12 @@ pnpm install && pnpm run dev
 - Computationally demanding (requires GPUs, Hugging Face endpoints).
 - Encountered runtime instability, including Colab crashes and occasional failures in supplemental tasks (e.g., saving screenshots).
 - Benchmarked on reasoning datasets (GSM8K, ScienceQA, HellaSwag) showed modest accuracy (~10-40%) without further multimodal finetuning.
-
+  
+<br>
 <div align="center">
-<img width="337" height="241" alt="image" src="https://github.com/user-attachments/assets/783d60eb-03e8-486b-ae54-a212f2e7ea50" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/783d60eb-03e8-486b-ae54-a212f2e7ea50" />
 </div>
+<br>
 
 **Team Contributions**
 
