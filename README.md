@@ -63,10 +63,8 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 <br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fe136709-8bc7-4b71-87ad-7dfa243b8696" alt="Elon Musk Demo" width="700" />
+<img src="https://github.com/user-attachments/assets/fe136709-8bc7-4b71-87ad-7dfa243b8696" alt="Elon Musk Demo" width="900" />
 </p>
-
-![Midscene-Elon-Musk](https://github.com/user-attachments/assets/fe136709-8bc7-4b71-87ad-7dfa243b8696)
 
 <br>
 
@@ -74,8 +72,9 @@ The Proxy-lite agent emerged as the recommended choice due to its balance of eff
 
 <br>
 
-![Midscene-BBC](https://github.com/user-attachments/assets/3f59499d-4791-4266-bfa3-dcf90c494e55)
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3f59499d-4791-4266-bfa3-dcf90c494e55" alt="BBC" width="900" />
+</p>
 
 ## **UI-TARS Desktop Agent**
 
@@ -141,7 +140,9 @@ pnpm install && pnpm run dev
 
 <br>
 
-![Midscene-Notepad](https://github.com/user-attachments/assets/84d813ff-6bcd-48f1-9252-aee149830838)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/84d813ff-6bcd-48f1-9252-aee149830838" alt="Midscene-Notepad" width="900" />
+</p>
 
 <br>
 
@@ -149,8 +150,9 @@ pnpm install && pnpm run dev
 
 <br>
 
-![UI-TARS-HDFC](https://github.com/user-attachments/assets/f2b18b19-ec78-486a-97c2-ab91aa7f7d65)
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f2b18b19-ec78-486a-97c2-ab91aa7f7d65" alt="UI-TARS-HDFC" width="900" />
+</p>
 
 ## **Proxy-lite Agent** (Final Selection)
 
@@ -225,11 +227,9 @@ Below is an example GIF sourced from the internet to demonstrate Proxy-lite in a
 
 <br>
 
-<div align="center">
-  
-![Proxy-Lite-Example](https://github.com/user-attachments/assets/d6eaa6e2-4d09-4a9f-8058-4df60c4655c1)
-  
-</div>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d6eaa6e2-4d09-4a9f-8058-4df60c4655c1" alt="Proxy-Lite-Example" width="900" />
+</p>
 
 **Note**: This GIF is a public demonstration, not a direct recording from our cohort’s experiments.
 
